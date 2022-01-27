@@ -18,7 +18,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-screens": "2.0.0-alpha.12",
     "react-native-web": "~0.11.7",
-    "three": "^0.114.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
